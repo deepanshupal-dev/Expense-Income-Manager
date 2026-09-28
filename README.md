@@ -80,3 +80,7 @@ This allows transactions to remain available after refreshing the page.
 ## 📸 Screenshot
 
 ![Expense & Income Manager Dashboard](./screenshots/expense-manager-dashboard.png)
+
+## 🚀 Live Demo
+
+[View Live Project](https://deepanshupal-dev.github.io/Expense-Income-Manager/)
